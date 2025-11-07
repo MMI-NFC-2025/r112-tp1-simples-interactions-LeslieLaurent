@@ -1,5 +1,5 @@
 // TODO
-const AMettreEnRouge = document.querySelector("H2");
+const AMettreEnRouge = document.querySelector("#a-mettre-en-rouge");
 AMettreEnRouge.style.color = "red";
 
 const Leclick = document.querySelector("button");
